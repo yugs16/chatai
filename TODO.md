@@ -1,0 +1,10 @@
+- Shift API calls to proper hook based structure
+- Can add more code snipeet based behavior, we can add, copy code behavior, and language display
+- Responsive screen based optimization/component integration
+- Dynamic virtualization of Messages section, maybe in the list section also 
+- UX enhancements, theme based enhancements
+- Input v/s textArea
+- Chat sharing support, active chat based on chatId present in URL
+- reat-time timestamp upgradation (optional)
+- Login based chat, to maintain more context, share context within chats
+- Image/document support
