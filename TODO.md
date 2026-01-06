@@ -1,5 +1,5 @@
 - Shift API calls to proper hook based structure
-- Can add more code snipeet based behavior, we can add, copy code behavior, and language display
+- Can add more code snippet based behavior, we can add, copy code behavior, and language display
 - Responsive screen based optimization/component integration
 - Dynamic virtualization of Messages section, maybe in the list section also 
 - UX enhancements, theme based enhancements
